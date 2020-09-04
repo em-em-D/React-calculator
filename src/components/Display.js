@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 function Display({ result }){
+    result = 0;
     return(
         <div className="result">
             <p>{result}</p>

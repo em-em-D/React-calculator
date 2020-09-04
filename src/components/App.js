@@ -11,11 +11,11 @@ class App extends Component{
     }
     render(){
         return(
-            <div>
-           <h1>I am App and I render display and ButttonPanel</h1>
-           <Display />
-           <ButtonPanel/>
-            </div>
+                <div>
+                    <h1>I am App and I render display and ButttonPanel</h1>
+                    <Display />
+                    <ButtonPanel/>
+                </div>
         );
     }
 };
