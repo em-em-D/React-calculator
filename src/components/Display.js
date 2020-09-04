@@ -5,7 +5,7 @@ import "./Display.css";
 function Display({ result }){
     return(
         <div className="result">
-            <p>{result}</p>
+            <p>{result || 0 }</p>
         </div>
     );
 }
