@@ -4,6 +4,9 @@
       "es6": true,
       "jest": true
     },
+    "scripts": {
+      "fix-js": "eslint-auto-fix"
+    },
     "parserOptions": {
       "ecmaFeatures": {
         "jsx": true

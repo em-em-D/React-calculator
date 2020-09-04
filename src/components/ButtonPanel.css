@@ -1,0 +1,49 @@
+.panel{
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    width: 700px;
+  }
+  
+.yellow {
+    background-color: yellow;
+  }
+  
+  .panel .yellow {
+    background-color: yellow;
+  }
+  
+  .panel .yellow:hover {
+    background-color: orangered;
+  }
+  
+  .panel .yellow:active {
+    background-color: yellow;
+  }
+  
+  .light-gray {
+    background-color: orange;
+  }
+  
+  .light-gray:hover {
+    background-color: lightgray;
+  }
+  
+  .panel .light-gray:active {
+    background-color: orange;
+  }
+  
+  .fifty-percent {
+    width: 50%;
+  }
+  
+
+  .group{
+    display: flex;
+    height: 100px;
+    width: 100%;
+  }
+  
+  .twenty-five-percent {
+    width: 25%;
+  }
