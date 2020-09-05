@@ -4,6 +4,9 @@
       "es6": true,
       "jest": true
     },
+    "script": {
+      "lint": "eslint --fix --ext .js,.jsx ."
+  },
     "parserOptions": {
       "ecmaFeatures": {
         "jsx": true

@@ -1,17 +1,18 @@
-# React-calculator
+React Calculator 
 
-This is the first milestone for the react calculator project.
+This app is a simple calculator designed for arothmetic calculations using react
 
-# Techonlogies
+Technologies
+-HTML/CSS/React
 
-React
-Node.js
-buildpack
+Setup
+To run the project:
 
-# Objective
+Clone the repository: https://github.com/em-em-D/ReactCalculator Run npm install. It will install all the dependencies required by the project Run npm start to start the development server. It will automatically open the page in your default browser.
 
-Project structure
+Feel free to contribute if you want to make it better.
 
-#author
+Author
 
-Michael Damulak
+## MICHAEL.M.DAMULAK
+## GITHUB: em-em-D
