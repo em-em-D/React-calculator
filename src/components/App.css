@@ -1,0 +1,24 @@
+.button{
+    background-color: orange;
+    flex-direction: row;
+    height: 390px;
+    width: 100%;
+  }
+  
+  .box {
+    align-items: stretch;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    margin: auto;
+    margin-top: 20px;
+    width: 700px;
+    border-style: solid;
+    border-color: gray;
+  }
+  
+  .display {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+  }

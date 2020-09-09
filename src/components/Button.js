@@ -1,11 +1,12 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
+
 const Button = ({ wide, color, name, handleClick,}) => {
     const classes = `${color} ${ wide ? 'fifty-percent' : 'twenty-five-percent'}`.trim();
 
     return (
-        <button type="button" onClick={()=> handleClick(name)} className={classes}>
+             <button type="button" onClick={()=> handleClick(name)} className={classes}>
             {name}</button>
     );
 
