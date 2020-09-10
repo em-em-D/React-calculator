@@ -22,3 +22,9 @@
     height: 100%;
     width: 100%;
   }
+  .result{
+    float: right;
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+  }
