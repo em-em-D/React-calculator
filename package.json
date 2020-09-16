@@ -35,8 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "eslint": "^7.8.1",
-    "stylelint": "^13.7.0"
-  }
+  "devDependencies": {}
 }
