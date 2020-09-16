@@ -1,11 +1,11 @@
 .input {
-    align-items: flex-end;
-    color: #fff;
-    display: flex;
-    font-size: 1.4em;
-    font-weight: bold;
-    height: 100%;
-    justify-content: flex-end;
-    margin-top: 0;
-    width: 100%;
-  }
+  align-items: flex-end;
+  color: #fff;
+  display: flex;
+  font-size: 1.4em;
+  font-weight: bold;
+  height: 100%;
+  justify-content: flex-end;
+  margin-top: 0;
+  width: 100%;
+}
