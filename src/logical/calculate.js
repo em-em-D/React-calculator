@@ -13,8 +13,8 @@ const calculate = (calculator, buttonName) => {
   }
 
   if (buttonName === '+/-') {
-    result /= 100;
-    nextVal /= 100;
+    result *= -1;
+    nextVal *= -1;
   }
   if (buttonName === '%') {
     result /= 100;
@@ -29,7 +29,7 @@ const calculate = (calculator, buttonName) => {
   }
 
   if (buttonName === '.') {
-    if (!nextVal.includes('.')) {
+    if (buttonName.includes('.')) {
       nextVal += buttonName;
     }
   }
