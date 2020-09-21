@@ -1,9 +1,9 @@
-React Calculator 
-
-This app is a simple calculator designed for arothmetic calculations using react
+React Calculator
+Beautiful React calculator designed for arothmetic calculations using react
+![](image/cal.png)
 
 Technologies
--HTML/CSS/React
+-HTML/CSS/React/javascript.
 
 Setup
 To run the project:
@@ -13,7 +13,6 @@ Clone the repository: https://github.com/em-em-D/ReactCalculator Run npm install
 Feel free to contribute if you want to make it better.
 
 Author
-
 
 Objective
 Math-magicians is a fictional company based in France. They have requested my help to build a simple, but fully-functional, beautiful, and user-friendly program that would assist them with their calculations. I used React and other technologies. See technologies used for more info.
@@ -41,17 +40,19 @@ To run the scripts npm is required. To get npm you have to install Node.js. Foll
 
 Use your terminal and run the commands after each instruction.
 
-Command	Description
-git clone https://github.com/em-em-D/React-calculator	Clone the repository to you computer
-cd react-calculator	Navigate to the newly created folder
-npm install	Install dependencies and launch browser with examples
-npm start	Makes the build and starts the development server
+Command Description
+git clone https://github.com/em-em-D/React-calculator Clone the repository to you computer
+cd react-calculator Navigate to the newly created folder
+npm install Install dependencies and launch browser with examples
+npm start Makes the build and starts the development server
 Press Ctrl + c to kill http-server process
-http://localhost:3000	Visit this link to use the calculator
+http://localhost:3000 Visit this link to use the calculator
 Up
 
 Acknowledgements
 Microverse software development school
+Oluwaseun Bello Chia for reviewing Milestones 2,
+Raphael Noriode for reviewing Milestone 3,4
 
 👤 Author
 Github: @em-em-D
@@ -75,4 +76,5 @@ Give a ⭐️ if you enjoyed this project!
 This project is MIT licensed.
 
 ## MICHAEL.M.DAMULAK
+
 ## GITHUB: em-em-D
