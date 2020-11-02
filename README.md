@@ -1,5 +1,9 @@
-React Calculator
-Beautiful React calculator designed for arothmetic calculations using react
+## React Calculator
+
+
+
+A Neatly designed React 
+calculator designed for arothmetic calculations using react
 ![](image/cal.png)
 
 Technologies
